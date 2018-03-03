@@ -1,6 +1,6 @@
 # jkphl/html-formatter
 
-[![Build Status][travis-image]][travis-url]  [![Scrutinizer Code Quality][scrutinizer-image]][scrutinizer-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Documentation Status][readthedocs-image]][readthedocs-url] [![Clear architecture][clear-architecture-image]][clear-architecture-url]
+[![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Scrutinizer Code Quality][scrutinizer-image]][scrutinizer-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Documentation Status][readthedocs-image]][readthedocs-url] [![Clear architecture][clear-architecture-image]][clear-architecture-url]
 
 > A simple and opinionated HTML5 source code formatter
 
@@ -42,6 +42,8 @@ Copyright © 2018 [Joschi Kuphal][author-url] / joschi@tollwerk.de. Licensed und
 
 [travis-image]: https://secure.travis-ci.org/jkphl/html-formatter.svg
 [travis-url]: https://travis-ci.org/jkphl/html-formatter
+[coveralls-image]: https://coveralls.io/repos/jkphl/html-formatter/badge.svg?branch=master&service=github
+[coveralls-url]: https://coveralls.io/github/jkphl/html-formatter?branch=master
 [scrutinizer-image]: https://scrutinizer-ci.com/g/jkphl/html-formatter/badges/quality-score.png?b=master
 [scrutinizer-url]: https://scrutinizer-ci.com/g/jkphl/html-formatter/?branch=master
 [codeclimate-image]: https://lima.codeclimate.com/github/jkphl/html-formatter/badges/gpa.svg

@@ -3,3 +3,4 @@
 /composer.lock
 /vendor
 .env
+.yo-rc.json
