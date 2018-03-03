@@ -1,0 +1,8 @@
+site_name: jkphl/html-formatter
+site_description: A simple and opinionated HTML5 source code formatter
+site_author: Joschi Kuphal
+repo_url: https://github.com/jkphl/html-formatter
+docs_dir: doc
+pages:
+- Home: 'index.md'
+- To-Do: 'todo.md'

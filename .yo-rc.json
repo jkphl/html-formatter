@@ -1,0 +1,27 @@
+{
+  "generator-clearphp": {
+    "run": 47,
+    "github": {
+      "ssh": "git@github.com:jkphl/html-formatter.git",
+      "https": "https://github.com/jkphl/html-formatter"
+    },
+    "codeclimate": "cbd5b3ea3e3c89b3de3b7a7d1e5babdb8b3b8a88751927016626ef8f071031c6",
+    "scrutinizer": true,
+    "coverage": false,
+    "docs": true,
+    "apidocs": false,
+    "year": 2018,
+    "vendor": "jkphl",
+    "project": "html-formatter",
+    "description": "A simple and opinionated HTML5 source code formatter",
+    "website": "https://github.com/jkphl/html-formatter",
+    "license": "MIT",
+    "stability": "RC",
+    "namespace": "Jkphl",
+    "module": "Htmlformatter",
+    "php": ">=5.6",
+    "authorName": "Joschi Kuphal",
+    "authorEmail": "joschi@tollwerk.de",
+    "authorWebsite": "https://jkphl.is"
+  }
+}
